@@ -9,6 +9,7 @@
 ### Rent exemption
 
 An account is considered rent-exempt if it holds at least 2 years worth of rent.
+If the rent fee rate increase, rent-exempt account is still rent-exempt
 
 ## References
 
